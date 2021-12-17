@@ -21,7 +21,6 @@ Di era revolusi industri 4.0, data science menjadi salah satu ilmu yang makin ba
 + Menjadi seorang data scientist berarti kamu harus siap untuk mulai mempelajari banyak bidang-bidang menarik.
 + Adapun kamu harus terbiasa memahami mengenai statistik, belajar pemrograman, mempelajari visualisasi, eksperimental, basis data, komputer dan lainnya.
 + Ada beragam profesi yang bisa kamu jumpai, di antaranya adalah data scientist, data analyst, dan data engineer.
-+ Ada beragam profesi yang bisa kamu jumpai, di antaranya adalah data scientist, data analyst, dan data engineer.
 + Menjadi seorang data scientist, kamu tidak hanya memiliki peluang kerja untuk perusahaan di bidang teknologi saja. Ada beberapa perusahaan bidang lainnya yang membutuhkan jasa kamu.
 + Perusahaan yang bergerak dibidang IT atau media misalnya, membutuhkan juga jasa seorang data science untuk perusahaan dan perkembangan mereka.
 
